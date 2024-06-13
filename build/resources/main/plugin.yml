@@ -1,0 +1,12 @@
+name: particles
+version: 'Rabbit-Network'
+main: net.rabbitnetwork.particles.Particles
+api-version: '1.20'
+author: RabbitTV
+website: https://www.rabbit-network.net
+commands:
+  particles:
+    aliases:
+      - particle
+    usage: /<command>
+    description: A fun way to toggle particles that follow you

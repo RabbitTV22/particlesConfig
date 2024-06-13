@@ -1,0 +1,15 @@
+particles:
+  enabled: true
+  type: REDSTONE
+  amount: 10
+  speed: 1.0
+  frequency: 1
+  display:
+    when_flying: true
+
+messages:
+  no_permission: "&cYou don't have permission to use this command!"
+  command_only_for_players: "&cThis command can only be used by players!"
+  particles_enabled: "&aParticles enabled."
+  particles_disabled: "&cParticles disabled."
+  invalid_type: "&cInvalid particle type! Use 'rainbow' or 'cloud'."
